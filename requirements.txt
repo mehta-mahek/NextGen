@@ -1,0 +1,11 @@
+fastapi
+pydantic
+uvicorn
+requests
+python-dotenv
+pymongo
+bson
+pandas
+google-generativeai
+groq
+cloudinary
